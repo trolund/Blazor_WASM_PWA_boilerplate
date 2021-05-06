@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DD5F61C9-89AC-46FB-BC20-FF0719B7CA1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Blazor__WASM__PWA.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blazor_WASM_PWA/Server/Data/ApplicationDbContext.cs">
+    <Files>
+      <File FileName="Blazor_WASM_PWA/Server/Controllers/OidcConfigurationController.cs" Line="1" Column="1" />
+      <File FileName="Blazor_WASM_PWA/Server/Controllers/WeatherForecastController.cs" Line="16" Column="6" />
+      <File FileName="Blazor_WASM_PWA/Client/Pages/Authentication.razor" Line="1" Column="1" />
+      <File FileName="Blazor_WASM_PWA/Client/Pages/Counter.razor" Line="1" Column="1" />
+      <File FileName="Blazor_WASM_PWA/Client/Pages/FetchData.razor" Line="1" Column="1" />
+      <File FileName="Blazor_WASM_PWA/Server/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blazor_WASM_PWA" expanded="True">
+            <Node name="Blazor_WASM_PWA.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="Blazor_WASM_PWA.Server" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Shared" expanded="True" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

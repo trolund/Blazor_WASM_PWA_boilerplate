@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Server/Blazor_WASM_PWA.Server.csproj": {}
+  },
+  "projects": {
+    "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Client/Blazor_WASM_PWA.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Client/Blazor_WASM_PWA.Client.csproj",
+        "projectName": "Blazor_WASM_PWA.Client",
+        "projectPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Client/Blazor_WASM_PWA.Client.csproj",
+        "packagesPath": "/Users/troelslund/.nuget/packages/",
+        "outputPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/troelslund/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/Blazor_WASM_PWA.Shared.csproj": {
+                "projectPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/Blazor_WASM_PWA.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.5, 5.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Server/Blazor_WASM_PWA.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Server/Blazor_WASM_PWA.Server.csproj",
+        "projectName": "Blazor_WASM_PWA.Server",
+        "projectPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Server/Blazor_WASM_PWA.Server.csproj",
+        "packagesPath": "/Users/troelslund/.nuget/packages/",
+        "outputPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/troelslund/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Client/Blazor_WASM_PWA.Client.csproj": {
+                "projectPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Client/Blazor_WASM_PWA.Client.csproj"
+              },
+              "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/Blazor_WASM_PWA.Shared.csproj": {
+                "projectPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/Blazor_WASM_PWA.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/Blazor_WASM_PWA.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/Blazor_WASM_PWA.Shared.csproj",
+        "projectName": "Blazor_WASM_PWA.Shared",
+        "projectPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/Blazor_WASM_PWA.Shared.csproj",
+        "packagesPath": "/Users/troelslund/.nuget/packages/",
+        "outputPath": "/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/troelslund/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

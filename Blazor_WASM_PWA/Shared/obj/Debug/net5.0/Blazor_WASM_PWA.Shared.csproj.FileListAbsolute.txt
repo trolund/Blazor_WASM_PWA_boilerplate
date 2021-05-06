@@ -1,0 +1,11 @@
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/bin/Debug/net5.0/Blazor_WASM_PWA.Shared.deps.json
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/bin/Debug/net5.0/Blazor_WASM_PWA.Shared.dll
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/bin/Debug/net5.0/ref/Blazor_WASM_PWA.Shared.dll
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/bin/Debug/net5.0/Blazor_WASM_PWA.Shared.pdb
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/obj/Debug/net5.0/Blazor_WASM_PWA.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/obj/Debug/net5.0/Blazor_WASM_PWA.Shared.AssemblyInfoInputs.cache
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/obj/Debug/net5.0/Blazor_WASM_PWA.Shared.AssemblyInfo.cs
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/obj/Debug/net5.0/Blazor_WASM_PWA.Shared.csproj.CoreCompileInputs.cache
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/obj/Debug/net5.0/Blazor_WASM_PWA.Shared.dll
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/obj/Debug/net5.0/ref/Blazor_WASM_PWA.Shared.dll
+/Users/troelslund/Projects/Blazor_WASM_PWA/Blazor_WASM_PWA/Shared/obj/Debug/net5.0/Blazor_WASM_PWA.Shared.pdb
